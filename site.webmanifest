@@ -1,0 +1,55 @@
+{
+   "name": "Breathing Guide by Lilju",
+   "short_name": "Breathing Guide",
+   "start_url": ".",
+   "background_color": "#264d2f",
+   "theme_color": "#264d2f",
+   "display": "standalone",
+   "icons": [
+      {
+         "src": "https://cdn.glitch.global/0f53d3f0-241f-4f02-9cef-83c84e6ec631/android-chrome-192x192.png?v=1711022044265",
+         "sizes": "192x192",
+         "type": "image/png",
+         "purpose": "maskable"
+      },
+      {
+       "src": "https://cdn.glitch.global/0f53d3f0-241f-4f02-9cef-83c84e6ec631/android-chrome-512x512.png?v=1711022044825",
+       "sizes": "512x512",
+       "type": "image/png"
+       },
+       {
+        "src": "https://cdn.glitch.global/0f53d3f0-241f-4f02-9cef-83c84e6ec631/square_favicon_150x150.png?v=1711710956678",
+        "sizes": "150x150",
+        "type": "image/png"
+       },
+       {
+        "src": "https://cdn.glitch.global/0f53d3f0-241f-4f02-9cef-83c84e6ec631/favicon-16x16.png?v=1711022045880",
+        "sizes": "16x16",
+        "type": "image/png"
+       },
+       {
+        "src": "https://cdn.glitch.global/0f53d3f0-241f-4f02-9cef-83c84e6ec631/favicon-32x32.png?v=1711022046178",
+        "sizes": "32x32",
+        "type": "image/png"
+       },
+       {
+        "src": "https://cdn.glitch.global/0f53d3f0-241f-4f02-9cef-83c84e6ec631/favicon.ico?v=1711022045568",
+        "sizes": "64x64",
+        "type": "image/png"
+       }   
+   ],
+ "screenshots": [
+   {
+     "src": "https://cdn.glitch.global/0f53d3f0-241f-4f02-9cef-83c84e6ec631/Breathing_Guide_wide_screenshot.png?v=1712400443676",
+     "sizes": "1920x919",
+     "type": "image/png",
+     "form_factor": "wide"
+   },
+   {
+     "src": "https://cdn.glitch.global/0f53d3f0-241f-4f02-9cef-83c84e6ec631/Breathing_Guide_narrow_screenshot.png?v=1712400439057",
+     "sizes": "360x740",
+     "type": "image/png",
+     "form_factor": "narrow"
+   }
+ ]
+}
