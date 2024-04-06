@@ -5,4 +5,4 @@ A simple breathing guide app which I made to practice my frontend skills, you ca
 
 It made me practice responsive design, css animations, javascript, glassmorphism, taught me how to make a favicon, how to simply translate with JS and how to create a PWA (Progressive Web App).
 
-Made with [Glitch](https://glitch.com/)
+Made with [Glitch](https://glitch.com/) [Live here](https://breathing-guide.glitch.me/)
